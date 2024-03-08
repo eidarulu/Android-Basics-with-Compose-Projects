@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Yeldos Amire</string>
+    <string name="title">Senior Android Developer</string>
+    <string name="icon_description_1">Phone Number</string>
+    <string name="icon_description_2">Share</string>
+    <string name="icon_description_3">Email</string>
+    <string name="contact_info_1">+7 705 720-89-29\n+7 706 669-82-60</string>
+    <string name="contact_info_2">\@eidarulu</string>
+    <string name="contact_info_3">eldos.amire@gmail.com</string>
+</resources>
