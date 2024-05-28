@@ -1,14 +1,29 @@
 # Android-Basics-with-Compose-Projects
-Collection of projects developed during the Android Basics course with Compose. This repository serves as a comprehensive showcase of hands-on exercises, assignments, and personal projects crafted to reinforce fundamental concepts and practical skills in Android app development using Jetpack Compose
+Collection of projects developed during the Android Basics course with Compose. This repository serves as a comprehensive showcase of hands-on exercises, assignments, and personal projects crafted to reinforce fundamental concepts and practical skills in Android app development using Jetpack Compose. Below you can see projects for each unit
 
-## Dice Roller 🎲
+## Unit 2
 
-### Overview
+<details>
+  <summary><h2>Dice Roller 🎲</h2></summary>
+  <h3>Overview</h3>
+  <p>Interactive dice roller app <strong><em>[Unit 2, Pathway 2]</em></strong></p>
+  <h3>Screenshots</h3>
+  <p align="center">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/089a1566-6cdc-419f-9781-4681a27d3f29" alt="Dice Roller" width="250"/>
+  </p>
+</details>
 
-Interactive dice roller app from **Unit 2, Pathway 1**
 
-### Screenshot
 
-<p align="center">
-  <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/089a1566-6cdc-419f-9781-4681a27d3f29" alt="Dice Roller" width="250"/>
-</p>
+<details>
+  <summary><h2>Lemonade🍋</h2></summary>
+  <h3>Overview</h3>
+  <p>Digital Lemonade app, where you can experience the joy of making lemonade digitally <strong><em>[Unit 2, Pathway 2]</em></strong></p>
+  <h3>Screenshots</h3>
+  <div style="display: flex;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/13c757ba-0d04-4299-b2b6-85c2e370934e" alt="Image 2" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/a104bfb1-3d60-4fc5-abf4-f430c89644a8" alt="Image 3" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/5b5d2f06-9648-4fc4-8451-c8fd6f1942c2" alt="Image 3" style="width: 230px; height: 500px;">
+  </div>
+</details>
