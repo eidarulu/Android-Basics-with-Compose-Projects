@@ -33,8 +33,8 @@
 <details>
   <summary><h1>Tip Time💵</h1></summary>
   <h2>Overview</h2>
-  <p><strong>Description: </strong><em>Digital Lemonade app, where you can experience the joy of making lemonade digitally</em></p>
-  <p><strong>Label: </strong> <em>Independent practice</em> 💡</p>
+  <p><strong>Description: </strong><em></em></p>
+  <p><strong>Label: </strong> <em>Guided project</em> 📖</p>
   <p><strong>Topics/Concepts Learned: </strong></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
