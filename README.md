@@ -2,7 +2,7 @@
 ## Collection of projects developed during the Android Basics course with Compose. This repository serves as a comprehensive showcase of hands-on exercises, assignments, and personal projects crafted to reinforce fundamental concepts and practical skills in Android app development using Jetpack Compose. Below you can see projects list
 
 # UNIT 2
-### --------------------------------------------------------PATHWAY 2--------------------------------------------------------
+### ---------------------------------------------PATHWAY 2---------------------------------------------
 <details>
   <summary><h1>Dice Roller🎲</h1></summary>
   <h2>Overview</h2>
@@ -29,7 +29,7 @@
   </div>
 </details>
 
-### --------------------------------------------------------PATHWAY 3--------------------------------------------------------
+### ---------------------------------------------PATHWAY 3---------------------------------------------
 <details>
   <summary><h1>Tip Time💵</h1></summary>
   <h2>Overview</h2>
