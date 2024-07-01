@@ -44,5 +44,19 @@
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/5b5d2f06-9648-4fc4-8451-c8fd6f1942c2" alt="Image 3" style="width: 230px; height: 500px;">
   </div>
 </details>
+<details>
+  <summary><h1>Art Space🌌</h1></summary>
+  <h2>Overview</h2>
+  <p><strong>Description: </strong><em>Digital Art Space — an app that displays a curated collection of framed artwork by</em></p>
+  <p><strong>Label: </strong> <em>Independent practice</em> 💡</p>
+  <p><strong>Topics/Concepts Learned: </strong></p>
+  <h2>Screenshots</h2>
+  <div style="display: flex;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/13c757ba-0d04-4299-b2b6-85c2e370934e" alt="Image 2" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/a104bfb1-3d60-4fc5-abf4-f430c89644a8" alt="Image 3" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/5b5d2f06-9648-4fc4-8451-c8fd6f1942c2" alt="Image 3" style="width: 230px; height: 500px;">
+  </div>
+</details>
 
 # UNIT 3
