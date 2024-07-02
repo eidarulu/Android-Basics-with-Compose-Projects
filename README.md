@@ -52,10 +52,9 @@
   <p><strong>Topics/Concepts Learned: </strong></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/13c757ba-0d04-4299-b2b6-85c2e370934e" alt="Image 2" style="width: 230px; height: 500px;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/a104bfb1-3d60-4fc5-abf4-f430c89644a8" alt="Image 3" style="width: 230px; height: 500px;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/5b5d2f06-9648-4fc4-8451-c8fd6f1942c2" alt="Image 3" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/29e31378-9b74-470e-a1de-6839cd092e16" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/2fab6f08-d03e-42d9-9243-659b1b78ddc8" alt="Image 2" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/b1e83c7e-1d9d-49a7-9e05-f0b7c185a3b2" alt="Image 3" style="width: 230px; height: 500px;">
   </div>
 </details>
 
