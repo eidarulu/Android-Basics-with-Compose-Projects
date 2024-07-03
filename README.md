@@ -11,7 +11,7 @@
   <p><strong>• Label:</strong></p>
   <p><em>Guided project</em>📖</p>
   <p><strong>• Topics/Concepts Learned:</strong></p>
-  <p><em></em></p>
+  <p><em>Button, Image composables, remember() and mutableStateOf() functions, Debugger</em></p>
   <h2>Screenshots</h2>
   <p align="center">
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/089a1566-6cdc-419f-9781-4681a27d3f29" alt="Dice Roller" width="250"/>
