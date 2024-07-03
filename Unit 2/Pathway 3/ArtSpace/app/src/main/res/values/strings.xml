@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="mountains_descriptor">A beautiful mountain landscape</string>
+    <string name="sky_descriptor">A beautiful, blue sky with fluffy clouds</string>
+    <string name="green_wall_descriptor">Wall covered in vibrant, green foliage</string>
+    <string name="author">Yeldos Amire</string>
+    <string name="mountains_date">(June 12, 2024)</string>
+    <string name="sky_date">(June 24, 2024)</string>
+    <string name="green_wall_date">(June 24, 2024)</string>
+</resources>
