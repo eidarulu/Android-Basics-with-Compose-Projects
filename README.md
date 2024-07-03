@@ -47,10 +47,9 @@
   <p><em>State, Stateful vs stateless composables, Switch and TextField composables, State hoisting, Composition, Recomposition  Automated tests</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/13c757ba-0d04-4299-b2b6-85c2e370934e" alt="Image 2" style="width: 230px; height: 500px;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/a104bfb1-3d60-4fc5-abf4-f430c89644a8" alt="Image 3" style="width: 230px; height: 500px;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/5b5d2f06-9648-4fc4-8451-c8fd6f1942c2" alt="Image 3" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/f046aa30-6244-49c0-9160-651197a5c27c" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/541198de-0f36-4f1e-a905-5b1cf9ef7ab3" alt="Image 2" style="width: 230px; height: 500px;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/a7268314-4e04-44d1-9d6d-3ac68d0e6a98" alt="Image 3" style="width: 230px; height: 500px;">
   </div>
 </details>
 <details>
