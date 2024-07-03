@@ -24,8 +24,8 @@
   <p><em>Digital Lemonade app, where you can experience the joy of making lemonade digitally</em></p>
   <p><strong>• Label:</strong></p>
   <p><em>Independent practice</em> 💡</p>
-  <p><strong>• Topics/Concepts Learned: Topics from Dice Roller project revised</strong></p>
-  <p><em></em></p>
+  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><em>Topics from Dice Roller project revised</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
