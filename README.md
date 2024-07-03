@@ -6,9 +6,12 @@
 <details>
   <summary><h1>Dice Roller🎲</h1></summary>
   <h2>Overview</h2>
-  <p><strong>Description: </strong><em>Interactive dice roller app</em></p>
-  <p><strong>Label: </strong> <em>Guided project</em> 📖</p>
-  <p><strong>Topics/Concepts Learned: </strong></p>
+  <p><strong>• Description:</strong></p>
+  <p><em>Interactive dice roller app</em></p>
+  <p><strong>• Label:</strong></p>
+  <p><em>Guided project</em>📖</p>
+  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><em></em></p>
   <h2>Screenshots</h2>
   <p align="center">
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/089a1566-6cdc-419f-9781-4681a27d3f29" alt="Dice Roller" width="250"/>
@@ -17,9 +20,12 @@
 <details>
   <summary><h1>Lemonade🍋</h1></summary>
   <h2>Overview</h2>
-  <p><strong>Description: </strong><em>Digital Lemonade app, where you can experience the joy of making lemonade digitally</em></p>
-  <p><strong>Label: </strong> <em>Independent practice</em> 💡</p>
-  <p><strong>Topics/Concepts Learned: </strong></p>
+  <p><strong>• Description:</strong></p>
+  <p><em>Digital Lemonade app, where you can experience the joy of making lemonade digitally</em></p>
+  <p><strong>• Label:</strong></p>
+  <p><em>Independent practice</em> 💡</p>
+  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><em></em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
@@ -33,9 +39,12 @@
 <details>
   <summary><h1>Tip Time💵</h1></summary>
   <h2>Overview</h2>
-  <p><strong>Description: </strong><em></em></p>
-  <p><strong>Label: </strong> <em>Guided project</em> 📖</p>
-  <p><strong>Topics/Concepts Learned: </strong></p>
+  <p><strong>• Description:</strong></p>
+  <p><em>Interactive tip calculator that can calculate and round a tip amount based on the bill amount and tip percentage</em></p>
+  <p><strong>• Label:</strong></p>
+  <p><em>Guided project</em>📖</p>
+  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><em>State, Stateful vs stateless composables, Switch and TextField composables, State hoisting, Composition, Recomposition  Automated tests</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/0d4805db-e3d9-47bc-bc77-2ecc075ab37b" alt="Image 1" style="width: 230px; height: 500px;">
@@ -47,9 +56,12 @@
 <details>
   <summary><h1>Art Space🌌</h1></summary>
   <h2>Overview</h2>
-  <p><strong>Description: </strong><em>Digital Art Space — an app that displays a curated collection of framed artwork by</em></p>
-  <p><strong>Label: </strong> <em>Independent practice</em> 💡</p>
-  <p><strong>Topics/Concepts Learned: </strong></p>
+  <p><strong>• Description:</strong></p>
+  <p><em>Digital Art Space — an app that displays a curated collection of framed artwork</em></p>
+  <p><strong>• Label: </strong></p>
+  <p><em>Independent practice</em>💡</p>
+  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><em>State, Low-fidelity prototype</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
     <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/29e31378-9b74-470e-a1de-6839cd092e16" alt="Image 1" style="width: 230px; height: 500px;">
