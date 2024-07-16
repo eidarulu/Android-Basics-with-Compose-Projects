@@ -72,3 +72,18 @@ tbu
 </details>
 
 # UNIT 3
+### ---------------------------------------------PATHWAY 2---------------------------------------------
+<details>
+  <summary><h1>Affirmations🌱</h1></summary>
+  <h2>Overview</h2>
+  <p><strong>• Description:</strong></p>
+  <p><em>Displays a list of affirmations paired with beautiful images to bring positivity to your day!</em></p>
+  <p><strong>• Label:</strong></p>
+  <p><em>Guided project</em>📖</p>
+  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><em>LazyColumn and Card composables</em></p>
+  <h2>Screenshots</h2>
+  <div style="display: flex;">
+    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/f046aa30-6244-49c0-9160-651197a5c27c" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
