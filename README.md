@@ -4,15 +4,16 @@
 # UNIT 1
 tbu
 # UNIT 2
-### ---------------------------------------------PATHWAY 2---------------------------------------------
+### ——————————————————PATHWAY 2——————————————————
 <details>
   <summary><h1>Dice Roller🎲</h1></summary>
   <h2>Overview</h2>
-  <p><strong>• Description:</strong></p>
+  <p><strong>⟫ Description:</strong></p>
   <p><em>Interactive dice roller app</em></p>
-  <p><strong>• Label:</strong></p>
+  <p><strong>⟫ Label:</strong></p>
   <p><em>Guided project</em>📖</p>
-  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>Button and Image composables, remember() and mutableStateOf() functions, Debugger</em></p>
   <h2>Screenshots</h2>
   <p align="center">
@@ -22,11 +23,12 @@ tbu
 <details>
   <summary><h1>Lemonade🍋</h1></summary>
   <h2>Overview</h2>
-  <p><strong>• Description:</strong></p>
+  <p><strong>⟫ Description:</strong></p>
   <p><em>Digital Lemonade app, where you can experience the joy of making lemonade digitally</em></p>
-  <p><strong>• Label:</strong></p>
+  <p><strong>⟫ Label:</strong></p>
   <p><em>Independent practice</em> 💡</p>
-  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>Topics from Dice Roller project revised</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
@@ -37,15 +39,16 @@ tbu
   </div>
 </details>
 
-### ---------------------------------------------PATHWAY 3---------------------------------------------
+### ——————————————————PATHWAY 3——————————————————
 <details>
   <summary><h1>Tip Time💵</h1></summary>
   <h2>Overview</h2>
-  <p><strong>• Description:</strong></p>
+  <p><strong>⟫ Description:</strong></p>
   <p><em>Interactive tip calculator that can calculate and round a tip amount based on the bill amount and tip percentage</em></p>
-  <p><strong>• Label:</strong></p>
+  <p><strong>⟫ Label:</strong></p>
   <p><em>Guided project</em>📖</p>
-  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>State, Stateful vs stateless composables, Switch and TextField composables, State hoisting, Composition, Recomposition  Automated tests</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
@@ -57,11 +60,12 @@ tbu
 <details>
   <summary><h1>Art Space🌌</h1></summary>
   <h2>Overview</h2>
-  <p><strong>• Description:</strong></p>
+  <p><strong>⟫ Description:</strong></p>
   <p><em>Digital Art Space — an app that displays a curated collection of framed artwork</em></p>
-  <p><strong>• Label: </strong></p>
+  <p><strong>⟫ Label: </strong></p>
   <p><em>Independent practice</em>💡</p>
-  <p><strong>• Topics/Concepts Learned:</strong></p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>State, Low-fidelity prototype</em></p>
   <h2>Screenshots</h2>
   <div style="display: flex;">
@@ -72,18 +76,23 @@ tbu
 </details>
 
 # UNIT 3
-### ---------------------------------------------PATHWAY 2---------------------------------------------
+### ——————————————————PATHWAY 2——————————————————
 <details>
   <summary><h1>Affirmations🪷</h1></summary>
   <h2>Overview</h2>
-  <p><strong>• Description:</strong></p>
+  <p><strong>⟫ Description:</strong></p>
   <p><em>Displays a list of affirmations paired with beautiful images to bring positivity to your day!</em></p>
-  <p><strong>• Label:</strong></p>
+  <p><strong>⟫ Label:</strong></p>
   <p><em>Guided project</em>📖</p>
-  <p><strong>• Topics/Concepts Learned:</strong></p>
-  <p><em>LazyColumn and Card composables</em></p>
-  <h2>Screenshots</h2>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><em>Built a scrollable list✔️</em></p>
+  <p><em>Changed the app icon✔️</em></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
+  <p><em>LazyColumn and Card composables, Adaptive and Legacy Launcher Icons</em></p>
+  <h2>Demo</h2>
   <div style="display: flex;">
-    <img src="https://github.com/eidarulu/Android-Basics-with-Compose-Projects/assets/94914844/f046aa30-6244-49c0-9160-651197a5c27c" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/user-attachments/assets/38c315ee-4fa2-499a-97bb-a2f50db9d3cd" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
+
+### ——————————————————PATHWAY 3——————————————————
