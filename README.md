@@ -78,7 +78,7 @@ tbu
 # UNIT 3
 ### ——————————————————PATHWAY 2——————————————————
 <details>
-  <summary><h1>Affirmations🪷</h1></summary>
+  <summary><h1>Affirmations🌠</h1></summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Displays a list of affirmations paired with beautiful images to bring positivity to your day!</em></p>
@@ -110,7 +110,5 @@ tbu
     <img src="https://github.com/user-attachments/assets/61059300-7a4c-42dc-b4ed-f3ec751731a3" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
-
-
 
 ### ——————————————————PATHWAY 3——————————————————
