@@ -94,5 +94,23 @@ tbu
     <img src="https://github.com/user-attachments/assets/38c315ee-4fa2-499a-97bb-a2f50db9d3cd" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
+<details>
+  <summary><h1>Courses📚</h1></summary>
+  <h2>Overview</h2>
+  <p><strong>⟫ Description:</strong></p>
+  <p><em>Displays a grid of course topics</em></p>
+  <p><strong>⟫ Label:</strong></p>
+  <p><em>Independent practice</em>💡</p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><em>Built a scrollable grid✔️</em></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
+  <p><em>LazyVerticalGrid composable</em></p>
+  <h2>Demo</h2>
+  <div style="display: flex;">
+    <img src="https://github.com/user-attachments/assets/61059300-7a4c-42dc-b4ed-f3ec751731a3" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
+
+
 
 ### ——————————————————PATHWAY 3——————————————————
