@@ -112,3 +112,20 @@ tbu
 </details>
 
 ### ———————————————————Pathway 3———————————————————
+<details>
+  <summary><h1>Woof</h1></summary>
+  <h2>Overview</h2>
+  <p><strong>⟫ Description:</strong></p>
+  <p><em>The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user</em></p>
+  <p><strong>⟫ Label:</strong></p>
+  <p><em>Guided project</em>📖</p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><em>✔️</em></p>
+  <p><em>✔️</em></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
+  <p><em></em></p>
+  <h2>Demo</h2>
+  <div style="display: flex;">
+    <img src="" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
