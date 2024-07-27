@@ -113,7 +113,7 @@ tbu
 
 ### ———————————————————Pathway 3———————————————————
 <details>
-  <summary><h1>Woof</h1></summary>
+  <summary><h1>Woof🐾</h1></summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user</em></p>
