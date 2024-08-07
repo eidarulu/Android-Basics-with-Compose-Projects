@@ -125,8 +125,9 @@ tbu
   <p><em>Added custom shapes to elements✔️</em></p>
   <p><em>Added a custom color palette✔️</em></p>
   <p><em>Added custom fonts✔️</em></p>
+  <p><em>Added custom fonts✔️</em></p>
+  <p><em>Built a simple spring animation✔️</em></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
-  <p><em></em></p>
   <h2>Demo</h2>
   <div style="display: flex;">
     <img src="" alt="Image 1" style="width: 230px; height: 500px;">
