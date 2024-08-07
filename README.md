@@ -120,8 +120,11 @@ tbu
   <p><strong>⟫ Label:</strong></p>
   <p><em>Guided project</em>📖</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
-  <p><em>✔️</em></p>
-  <p><em>✔️</em></p>
+  <p><em>Applied Material Theming✔️</em></p>
+  <p><em>Added a top app bar✔️</em></p>
+  <p><em>Added custom shapes to elements✔️</em></p>
+  <p><em>Added a custom color palette✔️</em></p>
+  <p><em>Added custom fonts✔️</em></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em></em></p>
   <h2>Demo</h2>
