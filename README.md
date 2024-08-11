@@ -130,6 +130,8 @@ tbu
   <p><em>Material3, CenterAlignedTopAppBar & IconButton & Icon composables</em></p>
   <h2>Demo</h2>
   <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/e52d961b-4fc9-41c4-a6bd-84af2d7427bb" alt="Image 1" style="width: 230px; height: 500px;">
+      <img src="https://github.com/user-attachments/assets/e52d961b-4fc9-41c4-a6bd-84af2d7427bb" alt="Image 1" style="width: 230px; height: 500px;">
+      <img src="https://github.com/user-attachments/assets/d16647c3-be1a-4b17-86c6-198bd8c3252a" alt="Image 2" style="width: 230px; height: 500px;">
+      <p>Both in Light (GIF 1) and Dark (GIF 2) theme</p>
   </div>
 </details>
