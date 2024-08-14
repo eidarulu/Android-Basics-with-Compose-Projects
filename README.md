@@ -39,7 +39,7 @@ tbu
   </div>
 </details>
 
-### ———————————————————Pathway 3———————————————————
+### ——————————————————Pathway 3——————————————————
 <details>
   <summary><h1>Tip Time💵</h1></summary>
   <h2>Overview</h2>
@@ -76,7 +76,7 @@ tbu
 </details>
 
 # UNIT 3
-### ———————————————————Pathway 2———————————————————
+### ——————————————————Pathway 2——————————————————
 <details>
   <summary><h1>Affirmations🌠</h1></summary>
   <h2>Overview</h2>
@@ -111,7 +111,7 @@ tbu
   </div>
 </details>
 
-### ———————————————————Pathway 3———————————————————
+### ——————————————————Pathway 3——————————————————
 <details>
   <summary><h1>Woof🐾</h1></summary>
   <h2>Overview</h2>
