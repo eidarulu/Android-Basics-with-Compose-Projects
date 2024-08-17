@@ -135,3 +135,20 @@ tbu
       <p>Both in Light (GIF 1) and Dark (GIF 2) theme</p>
   </div>
 </details>
+<details>
+  <summary><h1>Superheroes🦸🏻</h1></summary>
+  <h2>Overview</h2>
+  <p><strong>⟫ Description:</strong></p>
+  <p><em>Displays a list of superheroes</em></p>
+  <p><strong>⟫ Label:</strong></p>
+  <p><em>Independent practice</em>💡</p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><em>Found out that the order of modifiers matter✔️</em></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
+  <p><em>The order of modifiers</em></p>
+  <h2>Screenshots</h2>
+  <div style="display: flex;">
+    <img src="https://github.com/user-attachments/assets/ac19519b-fe93-4e18-b5e8-9205e2933d66" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/user-attachments/assets/08c67278-9367-4fc9-9424-d473a7f56bd8" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
