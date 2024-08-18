@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="list_item_space">8dp</dimen>
+    <dimen name="image_size">72dp</dimen>
+    <dimen name="height">72dp</dimen>
+</resources>
