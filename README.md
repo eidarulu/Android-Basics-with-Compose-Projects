@@ -6,12 +6,14 @@ tbu
 # UNIT 2
 ### ——————————————————Pathway 2——————————————————
 <details>
-  <summary><h1>Dice Roller🎲</h1></summary>
+  <summary>
+    <h1>Dice Roller🎲</h1><br>
+    <h3>Label: Guided project📖</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Interactive dice roller app</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Guided project</em>📖</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>Button and Image composables, remember() and mutableStateOf() functions, Debugger</em></p>
@@ -21,12 +23,14 @@ tbu
   </p>
 </details>
 <details>
-  <summary><h1>Lemonade🍋</h1></summary>
+  <summary>
+    <h1>Lemonade🍋</h1><br>
+    <h3>Label: Independent practice💡</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Digital Lemonade app, where you can experience the joy of making lemonade digitally</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Independent practice</em> 💡</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>Topics from Dice Roller project revised</em></p>
@@ -41,12 +45,14 @@ tbu
 
 ### ——————————————————Pathway 3——————————————————
 <details>
-  <summary><h1>Tip Time💵</h1></summary>
+  <summary>
+    <h1>Tip Time💵</h1><br>
+    <h3>Label: Guided project📖</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Interactive tip calculator that can calculate and round a tip amount based on the bill amount and tip percentage</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Guided project</em>📖</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>State, Stateful vs stateless composables, Switch and TextField composables, State hoisting, Composition, Recomposition  Automated tests</em></p>
@@ -58,12 +64,14 @@ tbu
   </div>
 </details>
 <details>
-  <summary><h1>Art Space🌌</h1></summary>
+  <summary>
+    <h1>Art Space🌌</h1><br>
+    <h3>Label: Independent practice💡</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Digital Art Space — an app that displays a curated collection of framed artwork</em></p>
-  <p><strong>⟫ Label: </strong></p>
-  <p><em>Independent practice</em>💡</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
   <p><em>State, Low-fidelity prototype</em></p>
@@ -75,15 +83,17 @@ tbu
   </div>
 </details>
 
-# UNIT 3
+# ———————————UNIT 3———————————
 ### ——————————————————Pathway 2——————————————————
 <details>
-  <summary><h1>Affirmations🌠</h1></summary>
+  <summary>
+    <h1>Affirmations🌠</h1><br>
+    <h3>Label: Guided project📖</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Displays a list of affirmations paired with beautiful images to bring positivity to your day!</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Guided project</em>📖</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><em>Built a scrollable list✔️</em></p>
   <p><em>Changed the app icon✔️</em></p>
@@ -95,12 +105,14 @@ tbu
   </div>
 </details>
 <details>
-  <summary><h1>Courses📚</h1></summary>
+  <summary>
+    <h1>Courses📚</h1><br>
+    <h3>Label: Independent practice💡</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Displays a grid of course topics</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Independent practice</em>💡</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><em>Built a scrollable grid✔️</em></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
@@ -113,12 +125,14 @@ tbu
 
 ### ——————————————————Pathway 3——————————————————
 <details>
-  <summary><h1>Woof🐾</h1></summary>
+  <summary>
+    <h1>Woof🐾</h1><br>
+    <h3>Label: Guided project📖</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Guided project</em>📖</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><em>Applied Material Theming✔️</em></p>
   <p><em>Added a top app bar✔️</em></p>
@@ -136,12 +150,14 @@ tbu
   </div>
 </details>
 <details>
-  <summary><h1>Superheroes🦸🏻</h1></summary>
+  <summary>
+    <h1>Superheroes🦸🏻</h1><br>
+    <h3>Label: Independent practice💡</h3><br>
+    <h3>Difficulty level:</h3>
+  </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
   <p><em>Displays a list of superheroes</em></p>
-  <p><strong>⟫ Label:</strong></p>
-  <p><em>Independent practice</em>💡</p>
   <p><strong>⟫ Implemented Novelty</strong></p>
   <p><em>Found out that the order of modifiers matter✔️</em></p>
   <p><strong>⟫ Topics/Concepts Learned:</strong></p>
@@ -150,5 +166,21 @@ tbu
   <div style="display: flex;">
     <img src="https://github.com/user-attachments/assets/ac19519b-fe93-4e18-b5e8-9205e2933d66" alt="Image 1" style="width: 230px; height: 500px;">
     <img src="https://github.com/user-attachments/assets/08c67278-9367-4fc9-9424-d473a7f56bd8" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
+<details>
+  <summary>
+    <h1>30 Days of Photography📸</h1><br>
+    <h3>Label: Project🔨</h3><br>
+    <h3>Difficulty level: 4/10</h3>
+  </summary>
+  <h2>Overview</h2>
+  <p><strong>⟫ Description:</strong></p>
+  <p><em>30 Days of Photography is a unique app that showcases 30 challenges related to Photography. One challenge for each day of the month. The challenges are displayed as cards in a scrollable list implemented by LazyRow. Each challenge contains an indicator for the day of the month, a summary of the day's goal, an image, and additional text describing the goal for that day in detail. this project gave me the opportunity to solidify my knowledge of Material Design and Jetpack Compose concepts.</em></p>
+  <p><strong>⟫ Topics/Concepts Reinforced</strong></p>
+  <p><em>Material Theming, Animations, UI building</em></p>
+  <h2>Screenshots</h2>
+  <div style="display: flex;">
+    <img src="https://github.com/user-attachments/assets/ac19519b-fe93-4e18-b5e8-9205e2933d66" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
