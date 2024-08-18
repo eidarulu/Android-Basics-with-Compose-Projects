@@ -179,8 +179,8 @@ tbu
   <p><em>30 Days of Photography is a unique app that showcases 30 challenges related to Photography. One challenge for each day of the month. The challenges are displayed as cards in a scrollable list implemented by LazyRow. Each challenge contains an indicator for the day of the month, a summary of the day's goal, an image, and additional text describing the goal for that day in detail. this project gave me the opportunity to solidify my knowledge of Material Design and Jetpack Compose concepts.</em></p>
   <p><strong>⟫ Topics/Concepts Reinforced</strong></p>
   <p><em>Material Theming, Animations, UI building</em></p>
-  <h2>Screenshots</h2>
+  <h2>Demo</h2>
   <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/ac19519b-fe93-4e18-b5e8-9205e2933d66" alt="Image 1" style="width: 230px; height: 500px;">
+    <img src="https://github.com/user-attachments/assets/c285420d-87af-45e4-8d54-80fca071ce66" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
