@@ -9,7 +9,7 @@ tbu
   <summary>
     <h1>Dice Roller🎲</h1><br>
     <h3>Label: Guided project📖</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -26,7 +26,7 @@ tbu
   <summary>
     <h1>Lemonade🍋</h1><br>
     <h3>Label: Independent practice💡</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -48,7 +48,7 @@ tbu
   <summary>
     <h1>Tip Time💵</h1><br>
     <h3>Label: Guided project📖</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -67,7 +67,7 @@ tbu
   <summary>
     <h1>Art Space🌌</h1><br>
     <h3>Label: Independent practice💡</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -89,7 +89,7 @@ tbu
   <summary>
     <h1>Affirmations🌠</h1><br>
     <h3>Label: Guided project📖</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -108,7 +108,7 @@ tbu
   <summary>
     <h1>Courses📚</h1><br>
     <h3>Label: Independent practice💡</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -128,7 +128,7 @@ tbu
   <summary>
     <h1>Woof🐾</h1><br>
     <h3>Label: Guided project📖</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -153,7 +153,7 @@ tbu
   <summary>
     <h1>Superheroes🦸🏻</h1><br>
     <h3>Label: Independent practice💡</h3><br>
-    <h3>Difficulty level:</h3>
+    <h3>Complexity:</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -172,7 +172,7 @@ tbu
   <summary>
     <h1>30 Days of Photography📸</h1><br>
     <h3>Label: Project🔨</h3><br>
-    <h3>Difficulty level: 4/10</h3>
+    <h3>Complexity: 4/10</h3>
   </summary>
   <h2>Overview</h2>
   <p><strong>⟫ Description:</strong></p>
@@ -182,5 +182,26 @@ tbu
   <h2>Demo</h2>
   <div style="display: flex;">
     <img src="https://github.com/user-attachments/assets/c285420d-87af-45e4-8d54-80fca071ce66" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
+
+# ———————————UNIT 4———————————
+### ——————————————————Pathway 1——————————————————
+<details>
+  <summary>
+    <h1>Dessert Clicker🍰</h1><br>
+    <h3>Label: Guided project📖</h3><br>
+    <h3>Complexity:</h3>
+  </summary>
+  <h2>Overview</h2>
+  <p><strong>⟫ Description:</strong></p>
+  <p><em>Dessert Clicker is a game about making desserts. Press the button, make a dessert, earn the big bucks.</em></p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><em>✔️</em></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
+  <p><em>Android lifecycle, Android console (Logcat)</em></p>
+  <h2>Demo</h2>
+  <div style="display: flex;">
+      <img src="" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
