@@ -205,3 +205,21 @@ tbu
       <img src="" alt="Image 1" style="width: 230px; height: 500px;">
   </div>
 </details>
+<details>
+  <summary>
+    <h1>Unscramble🔤</h1><br>
+    <h3>Label: Guided project📖</h3><br>
+    <h3>Complexity:</h3>
+  </summary>
+  <h2>Overview</h2>
+  <p><strong>⟫ Description:</strong></p>
+  <p><em>Single player game app that displays scrambled words. To play the game, player has to make a word using all the letters in the displayed scrambled word.</em></p>
+  <p><strong>⟫ Implemented Novelty</strong></p>
+  <p><em>✔️</em></p>
+  <p><strong>⟫ Topics/Concepts Learned:</strong></p>
+  <p><em>Android Architecture component- ViewModel and StateFlow</em></p>
+  <h2>Demo</h2>
+  <div style="display: flex;">
+      <img src="" alt="Image 1" style="width: 230px; height: 500px;">
+  </div>
+</details>
